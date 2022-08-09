@@ -14,7 +14,7 @@ class BottomBar extends StatefulWidget {
 }
 
 class _BottomBarState extends State<BottomBar> {
-  int currentIndex = 1;
+  int currentIndex = 0;
   // Screens
   List<Widget> screens = [
     const HomePage(),
