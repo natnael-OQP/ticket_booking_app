@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'ticket_booking_app',
       theme: ThemeData(
-        primarySwatch: Colors.blueGrey,
+        primarySwatch: Colors.lightBlue,
       ),
       home: const BottomBar(),
       debugShowCheckedModeBanner: false,
