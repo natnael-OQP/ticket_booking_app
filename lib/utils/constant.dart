@@ -24,7 +24,7 @@ class Styles {
   );
   static TextStyle heading3 = TextStyle(
     fontSize: 17,
-    color: textColor,
+    color: Colors.grey.shade500,
     fontWeight: FontWeight.bold,
   );
   static TextStyle heading4 = TextStyle(
